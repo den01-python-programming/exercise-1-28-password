@@ -1,4 +1,4 @@
-def odd_or_even():
+def password():
     # Write your code here
     
-odd_or_even()
+passeord()

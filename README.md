@@ -1,15 +1,15 @@
-# Exercise 1.27 - Odd or even
+# Exercise 1.28 - Password
 
-Write a program that prompts the user for a number and informs us whether it is even or odd.
+Write a program that prompts the user for a password. If the password is "Caput Draconis" the program prints "Welcome!". Otherwise, the program prints "Off with you!"
 
 ```plaintext
-Give a number:
-*2*
-Number 2 is even.
+Password?
+*Wattlebird*
+Off with you!
 ```
 
 ```plaintext
-Give a number:
-*7*
-Number 7 is odd.
+Password?
+*Caput Draconis*
+Welcome!
 ```
